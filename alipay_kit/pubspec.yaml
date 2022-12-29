@@ -15,7 +15,8 @@ dependencies:
 
   alipay_kit_android: #^4.0.2
     path: ../alipay_kit_android
-#  alipay_kit_ios: ^4.0.2
+  alipay_kit_ios: #^4.0.2
+    path: ../alipay_kit_ios
 
   json_annotation: ^4.5.0
 
