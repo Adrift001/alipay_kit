@@ -14,9 +14,13 @@ dependencies:
   plugin_platform_interface: ^2.0.2
 
   alipay_kit_android: #^4.0.2
-    path: ../alipay_kit_android
+    git:
+      url: https://github.com/Adrift001/alipay_kit.git
+      path: alipay_kit_android
   alipay_kit_ios: #^4.0.2
-    path: ../alipay_kit_ios
+    git:
+      url: https://github.com/Adrift001/alipay_kit.git
+      path: alipay_kit_ios
 
   json_annotation: ^4.5.0
 
